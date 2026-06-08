@@ -14,8 +14,8 @@
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=abdulmajeed&color=70a5fd&style=flat-square&label=Profile+Views)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdul_Majeed-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdulmajeed)&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-abdulmajeed-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/abdulmajeed)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdul_Majeed-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdulmajeedhub)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-abdulmajeed-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/abdulmajeedhub)&nbsp;
 [![Email](https://img.shields.io/badge/Email-abdulmajeed25288%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:abdulmajeed25288@gmail.com)
 
 </div>
